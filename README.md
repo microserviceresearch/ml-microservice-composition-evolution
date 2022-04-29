@@ -23,7 +23,3 @@ We have developed an approach based on the choreography of BPMN fragments. Accor
 One of the main problems to be solved by choreographies is related to their evolution due to the complexity that the need of integrating changes among autonomous and independent partners introduces. In our microservice composition approach, a change introduced from the local perspective of a microservice needs to be integrated with both the BPMN fragment of the other partners and the big picture of the composition. 
 
 To face this challenge we have developed a solution based on machine learning techniques. This repository contains the sotware artifacts used to develop this solution 
-
-# References
-
-1. J. Ortiz, V. Torres, P. Valderas. A Catalogue of Adaptation Rules to Support Local Changes in Microservice Compositions Implemented as Choreographies of BPMN Fragments. Research Report. http://hdl.handle.net/10251/181551 (accessed March 23, 2022).
