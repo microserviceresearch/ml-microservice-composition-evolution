@@ -1,6 +1,6 @@
 # Microservice composition evolution suported by Machine Learning
 
-This repositry contains the artifacts developed to integrate machine learning techniques into the [software infrastructure](https://github.com/pvalderas/microservices-composition-infrastructure) developed to support the composition of microservices.
+This repositry contains the artifacts developed to integrate machine learning techniques into the [software infrastructure](https://github.com/microserviceresearch/microservices-composition-infrastructure) developed to support the composition of microservices.
 
 You can find here the following:
 
