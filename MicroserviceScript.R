@@ -66,7 +66,7 @@ confusionMatrix(t)
 
 ##Test the Decision Tree Random Forest
 
-microserviciosPredictionRF5 <- predict(DTFit3, microserviciosTest)
+microserviciosPredictionRF5 <- predict(DTFit5, microserviciosTest)
 microserviciosPredictionRF5 <- round(microserviciosPredictionRF5)
 
 u <- union(microserviciosPredictionRF5, microserviciosTest2$Adaptation.rule)
